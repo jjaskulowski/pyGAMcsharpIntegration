@@ -1,0 +1,10 @@
+C:\Gt\StatisticalFrowOnSeries\forms\bin\Debug\forms.exe.config
+C:\Gt\StatisticalFrowOnSeries\forms\bin\Debug\forms.exe
+C:\Gt\StatisticalFrowOnSeries\forms\bin\Debug\forms.pdb
+C:\Gt\StatisticalFrowOnSeries\forms\obj\Debug\forms.csprojResolveAssemblyReference.cache
+C:\Gt\StatisticalFrowOnSeries\forms\obj\Debug\forms.Form1.resources
+C:\Gt\StatisticalFrowOnSeries\forms\obj\Debug\forms.Properties.Resources.resources
+C:\Gt\StatisticalFrowOnSeries\forms\obj\Debug\forms.csproj.GenerateResource.Cache
+C:\Gt\StatisticalFrowOnSeries\forms\obj\Debug\forms.csproj.CoreCompileInputs.cache
+C:\Gt\StatisticalFrowOnSeries\forms\obj\Debug\forms.exe
+C:\Gt\StatisticalFrowOnSeries\forms\obj\Debug\forms.pdb

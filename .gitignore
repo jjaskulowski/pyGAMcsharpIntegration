@@ -1,0 +1,6 @@
+_ReSharper*/
+[Tt]est[Rr]esult*
+**/bin/**/*
+.vs/StatisticalFrowOnSeries/v1*/
+.vs/restore.dg
+UpgradeLog.htm

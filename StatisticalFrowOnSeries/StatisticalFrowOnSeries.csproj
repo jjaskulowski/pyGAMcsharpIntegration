@@ -32,6 +32,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="DLLs\**" />
+    <Compile Remove="Lib\**" />
+    <EmbeddedResource Remove="DLLs\**" />
+    <EmbeddedResource Remove="Lib\**" />
+    <None Remove="DLLs\**" />
+    <None Remove="Lib\**" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="MathNet.Numerics" Version="3.20.0" />
     <PackageReference Include="System.ValueTuple" Version="4.4.0" />
   </ItemGroup>
